@@ -1,0 +1,26 @@
+﻿  Assignment1.cpp
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(28,3): warning C4091: 'typedef ': ignored on left of 'main::CircleStr' when no variable is declared
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(37,3): warning C4091: 'typedef ': ignored on left of 'main::RectangleStr' when no variable is declared
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,41): warning C4244:         with
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,41): warning C4244:         [
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,41): warning C4244:             T=float
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,41): warning C4244:         ]
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,33): warning C4244:         with
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,33): warning C4244:         [
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,33): warning C4244:             T=float
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(210,33): warning C4244:         ]
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(321,42): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(321,39): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(321,36): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(356,42): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(356,39): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\muhar\Desktop\CppGames\Assignment1\Assignment1.cpp(356,36): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  imgui-SFML.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\muhar\Desktop\CppGames\Assignment1\x64\Debug\Assignment1.exe
